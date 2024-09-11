@@ -25,8 +25,8 @@ const cadastrarMeta = async () => {
 const listarMetas = async () => {
     const respostas = await checkbox({
         message: "Use as setas para mudar de meta. O espaço para marcar ou desmarcar. Enter para finalizar essa etapa",
-        choices:[...metas],
-        instructions: false
+        choices: [...metas],
+        instructions: false,
     })
 
     if(respostas.length==0){
