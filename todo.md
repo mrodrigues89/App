@@ -3,5 +3,6 @@
     - [x]Metas realizadas
     - [x]Metas abertas
 - [x]Marcar/Desmarcar metas realizadas
-- Remover metas
-- Sistemas de mensagens
+- [x]Remover metas
+- [x]Sistemas de mensagens
+- [x]Persistencia de dados
